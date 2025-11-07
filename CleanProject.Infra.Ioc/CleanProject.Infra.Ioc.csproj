@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.5.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application\CleanProject.Application.csproj" />
+    <ProjectReference Include="..\CleanProject.Domain\CleanProject.Domain.csproj" />
+    <ProjectReference Include="..\CleanProject.Infra.Data\CleanProject.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
