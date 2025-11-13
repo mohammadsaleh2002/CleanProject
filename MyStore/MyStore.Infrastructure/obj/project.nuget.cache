@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j333bS2i/Hc=",
+  "success": true,
+  "projectFilePath": "D:\\mobtani bar web project\\MyStore\\MyStore.Infrastructure\\MyStore.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad-Saleh\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.306\\microsoft.net.sdk.compilers.toolset.9.0.306.nupkg.sha512",
+    "C:\\Users\\Mohammad-Saleh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.21\\microsoft.windowsdesktop.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\Mohammad-Saleh\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.21\\microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\Mohammad-Saleh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.21\\microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
