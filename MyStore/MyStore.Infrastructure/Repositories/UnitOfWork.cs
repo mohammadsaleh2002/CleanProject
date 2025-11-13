@@ -1,4 +1,5 @@
 ﻿using MyStore.Application.Interfaces;
+using MyStore.Domain.Entities;
 using MyStore.Infrastructure.Data;
 using System.Threading.Tasks;
 
@@ -12,7 +13,7 @@ namespace MyStore.Infrastructure.Repositories
         public IProductRepository Products { get; private set; }
         public ICategoryRepository Categories { get; private set; }
         public IOrderRepository Orders { get; private set; }
-
+        public IBaseRepository<User> Users { get; private set; } 
         public UnitOfWork(ApplicationDbContext context)
         {
             _context = context;
@@ -21,6 +22,7 @@ namespace MyStore.Infrastructure.Repositories
             Products = new ProductRepository(_context);
             Categories = new CategoryRepository(_context);
             Orders = new OrderRepository(_context);
+            Users = new BaseRepository<User>(_context); 
         }
 
         // This is the method that saves all changes to the database

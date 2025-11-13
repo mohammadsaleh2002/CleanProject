@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyStore.Domain.Entities;
+using System;
 using System.Threading.Tasks;
 
 namespace MyStore.Application.Interfaces
@@ -16,6 +17,9 @@ namespace MyStore.Application.Interfaces
 
         // The method that commits all changes made within this unit of work
         // to the database, in a single transaction.
+        IBaseRepository<User> Users { get; } 
         Task<int> CompleteAsync();
+
+   
     }
 }
