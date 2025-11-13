@@ -13,4 +13,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MyStore.Application\MyStore.Application.csproj" />
+    <ProjectReference Include="..\MyStore.Infrastructure\MyStore.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

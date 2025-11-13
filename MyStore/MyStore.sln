@@ -12,6 +12,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{9AA6462D-B9A0-4BC0-B130-492DE53A9EBA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStore.Application", "MyStore.Application\MyStore.Application.csproj", "{F1E3C60B-DD76-44E2-A721-DE890FAD176C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B1C4DDA3-6B8C-4C4E-97D7-5649D8B60480} = {B1C4DDA3-6B8C-4C4E-97D7-5649D8B60480}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStore.Domain", "MyStore.Domain\MyStore.Domain.csproj", "{B1C4DDA3-6B8C-4C4E-97D7-5649D8B60480}"
 EndProject

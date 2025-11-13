@@ -10,3 +10,7 @@ D:\mobtani bar web project\MyStore\MyStore.Application\obj\Debug\net8.0\MyStore.
 D:\mobtani bar web project\MyStore\MyStore.Application\obj\Debug\net8.0\refint\MyStore.Application.dll
 D:\mobtani bar web project\MyStore\MyStore.Application\obj\Debug\net8.0\MyStore.Application.pdb
 D:\mobtani bar web project\MyStore\MyStore.Application\obj\Debug\net8.0\ref\MyStore.Application.dll
+D:\mobtani bar web project\MyStore\MyStore.Application\bin\Debug\net8.0\MyStore.Domain.dll
+D:\mobtani bar web project\MyStore\MyStore.Application\bin\Debug\net8.0\MyStore.Domain.pdb
+D:\mobtani bar web project\MyStore\MyStore.Application\obj\Debug\net8.0\MyStore.Application.csproj.AssemblyReference.cache
+D:\mobtani bar web project\MyStore\MyStore.Application\obj\Debug\net8.0\MyStore..AA4E0CEB.Up2Date
