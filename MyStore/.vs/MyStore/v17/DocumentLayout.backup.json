@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\mobtani bar web project\\MyStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|d:\\mobtani bar web project\\mystore\\mystore.web\\views\\store\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\views\\store\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|d:\\mobtani bar web project\\mystore\\mystore.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|d:\\mobtani bar web project\\mystore\\mystore.web\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|d:\\mobtani bar web project\\mystore\\mystore.web\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -119,6 +131,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\Views\\Store\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyStore.Web\\Views\\Store\\Create.cshtml",
+              "ToolTip": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\Views\\Store\\Create.cshtml",
+              "RelativeToolTip": "MyStore.Web\\Views\\Store\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T13:59:11.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyStore.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyStore.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAwwBwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T13:54:34.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyStore.Web\\Views\\Store\\Index.cshtml",
+              "ToolTip": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "MyStore.Web\\Views\\Store\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T13:50:34.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "StoreController.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\Controllers\\StoreController.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\StoreController.cs",
@@ -131,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\OrdersController.cs",
@@ -139,12 +190,11 @@
               "RelativeToolTip": "MyStore.Web\\Controllers\\OrdersController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAkwEwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:44:10.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:44:10.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\UsersController.cs",
@@ -156,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\CategoriesController.cs",
@@ -168,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\ProductsController.cs",
@@ -180,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\Program.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Program.cs",
@@ -192,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\appsettings.json",
               "RelativeDocumentMoniker": "MyStore.Web\\appsettings.json",
@@ -204,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Application\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\IUnitOfWork.cs",
@@ -216,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Repositories\\UnitOfWork.cs",
@@ -228,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "20251113124908_InitialSetup.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Infrastructure\\Migrations\\20251113124908_InitialSetup.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Migrations\\20251113124908_InitialSetup.cs",
@@ -240,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Infrastructure\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Repositories\\OrderRepository.cs",
@@ -252,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "MyStore.Domain\\Entities\\Product.cs",
@@ -264,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Infrastructure\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Repositories\\CategoryRepository.cs",
@@ -276,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Repositories\\ProductRepository.cs",
@@ -288,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Infrastructure\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Repositories\\BaseRepository.cs",
@@ -300,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Data\\ApplicationDbContext.cs",
@@ -312,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Application\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Services\\ProductService.cs",
@@ -324,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "IProductService.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Application\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\IProductService.cs",
@@ -336,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Application\\Interfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\IOrderRepository.cs",
@@ -348,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Application\\Interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\ICategoryRepository.cs",
@@ -360,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Application\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\IProductRepository.cs",
@@ -372,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Application\\Interfaces\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\IBaseRepository.cs",
@@ -384,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Domain\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "MyStore.Domain\\Entities\\OrderItem.cs",
@@ -396,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "MyStore.Domain\\Entities\\Order.cs",
@@ -408,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "MyStore.Domain\\Entities\\User.cs",
@@ -420,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\mobtani bar web project\\MyStore\\MyStore.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "MyStore.Domain\\Entities\\Category.cs",
