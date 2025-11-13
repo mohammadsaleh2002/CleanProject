@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "MyStore.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MyStore.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyStore.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MyStore.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MyStore.Domain/MyStore.Domain.csproj",
+      "msbuildProject": "../MyStore.Domain/MyStore.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "MyStore.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Mohammad-Saleh\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\mobtani bar web project\\MyStore\\MyStore.Domain\\MyStore.Domain.csproj": {
+              "projectPath": "D:\\mobtani bar web project\\MyStore\\MyStore.Domain\\MyStore.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
