@@ -1,6 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿// File: MyStore.Web/Controllers/StoreController.cs
+using Microsoft.AspNetCore.Mvc;
 using MyStore.Application.Interfaces;
-using MyStore.Domain.Entities; 
+using MyStore.Domain.Entities;
 using System.Threading.Tasks;
 
 namespace MyStore.Web.Controllers
@@ -63,6 +64,36 @@ namespace MyStore.Web.Controllers
 
             // If model is not valid, return to the form with error messages
             return View(product);
+        }
+
+        // --- Delete (Show Confirmation) ---
+
+        // GET: /Store/Delete/5
+        // This method finds the product and shows the "Are you sure?" page
+        public async Task<IActionResult> Delete(int id)
+        {
+            var product = await _productService.GetProductByIdAsync(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            // Pass the product to the Delete.cshtml view
+            return View(product);
+        }
+
+        // --- Delete (Execute) ---
+
+        // POST: /Store/Delete/5
+        // This method is called when the user clicks "Delete" on the confirmation page
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            await _productService.DeleteProductAsync(id);
+
+            // Redirect back to the main list
+            return RedirectToAction(nameof(Index));
         }
     }
 }

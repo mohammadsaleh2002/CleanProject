@@ -10,7 +10,7 @@
     <a asp-action="Create" class="btn btn-primary">ایجاد محصول جدید</a>
 </p>
 
-<table class="table">
+<table class="table" id="productsTable">
     <thead>
         <tr>
             <th>
@@ -28,7 +28,7 @@
     <tbody>
         @foreach (var item in Model)
         {
-            <tr>
+            <tr id="row-@item.Id">
                 <td>
                     @Html.DisplayFor(modelItem => item.Name)
                 </td>
@@ -40,9 +40,58 @@
                 </td>
                 <td>
                     <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">جزئیات</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">حذف</a>
+
+                    <button class="btn btn-danger btn-sm js-delete" data-id="@item.Id">حذف </button>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+
+@section Scripts {
+    <script>
+        // Wait for the document to be fully loaded
+        document.addEventListener("DOMContentLoaded", function() {
+
+            // Find the table
+            const table = document.getElementById("productsTable");
+
+            if (table) {
+                // Add one event listener to the whole table
+                table.addEventListener("click", function(event) {
+
+                    // Check if the clicked element is our delete button
+                    if (event.target.classList.contains("js-delete")) {
+
+                        const deleteButton = event.target;
+                        const productId = deleteButton.getAttribute("data-id");
+
+                        // 1. Show confirmation dialog
+                        if (confirm("آیا از حذف این محصول مطمئن هستید؟")) {
+
+                            // 2. Call the API using fetch
+                            fetch(`/api/Products/${productId}`, {
+                                method: "DELETE"
+                            })
+                            .then(response => {
+                                if (response.ok) {
+                                    // 3. On success, remove the row from the table
+                                    const row = document.getElementById(`row-${productId}`);
+                                    if (row) {
+                                        row.remove();
+                                    }
+                                } else {
+                                    alert("خطا در حذف محصول.");
+                                }
+                            })
+                            .catch(error => {
+                                console.error("Error:", error);
+                                alert("یک خطای شبکه رخ داد.");
+                            });
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+}
