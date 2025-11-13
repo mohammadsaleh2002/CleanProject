@@ -151,3 +151,8 @@ D:\mobtani bar web project\MyStore\MyStore.Web\obj\Debug\net8.0\refint\MyStore.W
 D:\mobtani bar web project\MyStore\MyStore.Web\obj\Debug\net8.0\MyStore.Web.pdb
 D:\mobtani bar web project\MyStore\MyStore.Web\obj\Debug\net8.0\MyStore.Web.genruntimeconfig.cache
 D:\mobtani bar web project\MyStore\MyStore.Web\obj\Debug\net8.0\ref\MyStore.Web.dll
+D:\mobtani bar web project\MyStore\MyStore.Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\mobtani bar web project\MyStore\MyStore.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mobtani bar web project\MyStore\MyStore.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mobtani bar web project\MyStore\MyStore.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mobtani bar web project\MyStore\MyStore.Web\obj\Debug\net8.0\MyStore.Web.MvcApplicationPartsAssemblyInfo.cs
