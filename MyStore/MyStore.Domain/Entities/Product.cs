@@ -14,7 +14,7 @@ namespace MyStore.Domain.Entities
 
         // Navigation Property
         // Each product belongs to one Category.
-        public Category Category { get; set; }
+        public Category? Category { get; set; }
 
         // Navigation Property
         // Each product can be part of many OrderItems.
