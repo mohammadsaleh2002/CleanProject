@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC17406A-0ADA-430E-A67D-6B722FFDA6E2}|MyStore.Infrastructure\\MyStore.Infrastructure.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -141,10 +145,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DC17406A-0ADA-430E-A67D-6B722FFDA6E2}|MyStore.Infrastructure\\MyStore.Infrastructure.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.infrastructure\\migrations\\20251113124908_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC17406A-0ADA-430E-A67D-6B722FFDA6E2}|MyStore.Infrastructure\\MyStore.Infrastructure.csproj|solutionrelative:mystore.infrastructure\\migrations\\20251113124908_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,20 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "MyStore.Web\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:44:10.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\ProductsController.cs",
@@ -183,12 +170,11 @@
               "RelativeToolTip": "MyStore.Web\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:46:35.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:46:35.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StoreController.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Controllers\\StoreController.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\StoreController.cs",
@@ -196,12 +182,11 @@
               "RelativeToolTip": "MyStore.Web\\Controllers\\StoreController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:47:15.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:47:15.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\UsersController.cs",
@@ -209,12 +194,11 @@
               "RelativeToolTip": "MyStore.Web\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:38:54.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:38:54.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\ViewModels\\LoginViewModel.cs",
@@ -222,12 +206,11 @@
               "RelativeToolTip": "MyStore.Web\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:02:33.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T12:02:33.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\ViewModels\\RegisterViewModel.cs",
@@ -235,12 +218,48 @@
               "RelativeToolTip": "MyStore.Web\\ViewModels\\RegisterViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:03:02.125Z",
+              "WhenOpened": "2025-11-14T12:03:02.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "MyStore.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\appsettings.json",
+              "RelativeToolTip": "MyStore.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T12:36:40.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MyStore.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Program.cs",
+              "RelativeToolTip": "MyStore.Web\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:39:03.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MyStore.Web\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:44:10.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\CategoriesController.cs",
@@ -248,12 +267,11 @@
               "RelativeToolTip": "MyStore.Web\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:34:45.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:34:45.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\AccountController.cs",
@@ -261,25 +279,11 @@
               "RelativeToolTip": "MyStore.Web\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:05:20.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T12:05:20.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Program.cs",
-              "RelativeDocumentMoniker": "MyStore.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Program.cs",
-              "RelativeToolTip": "MyStore.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:39:03.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Repositories\\UnitOfWork.cs",
@@ -287,12 +291,11 @@
               "RelativeToolTip": "MyStore.Infrastructure\\Repositories\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:30:09.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:30:09.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Repositories\\ProductRepository.cs",
@@ -300,12 +303,11 @@
               "RelativeToolTip": "MyStore.Infrastructure\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:27:28.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:27:28.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Infrastructure\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Repositories\\OrderRepository.cs",
@@ -313,12 +315,11 @@
               "RelativeToolTip": "MyStore.Infrastructure\\Repositories\\OrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:28:53.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:28:53.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Infrastructure\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Repositories\\CategoryRepository.cs",
@@ -326,12 +327,11 @@
               "RelativeToolTip": "MyStore.Infrastructure\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:28:08.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:28:08.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Infrastructure\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Repositories\\BaseRepository.cs",
@@ -339,12 +339,11 @@
               "RelativeToolTip": "MyStore.Infrastructure\\Repositories\\BaseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:26:26.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:26:26.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Data\\ApplicationDbContext.cs",
@@ -352,12 +351,11 @@
               "RelativeToolTip": "MyStore.Infrastructure\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:23:35.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:23:35.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "MyStore.Domain\\Entities\\User.cs",
@@ -365,12 +363,11 @@
               "RelativeToolTip": "MyStore.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:51:08.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T07:51:08.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "MyStore.Domain\\Entities\\Product.cs",
@@ -378,12 +375,11 @@
               "RelativeToolTip": "MyStore.Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:50:16.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T07:50:16.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Domain\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "MyStore.Domain\\Entities\\OrderItem.cs",
@@ -391,12 +387,11 @@
               "RelativeToolTip": "MyStore.Domain\\Entities\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:52:22.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T07:52:22.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "MyStore.Domain\\Entities\\Order.cs",
@@ -404,12 +399,11 @@
               "RelativeToolTip": "MyStore.Domain\\Entities\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:51:47.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T07:51:47.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "MyStore.Domain\\Entities\\Category.cs",
@@ -417,12 +411,11 @@
               "RelativeToolTip": "MyStore.Domain\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:49:09.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T07:49:09.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Services\\UserService.cs",
@@ -430,12 +423,11 @@
               "RelativeToolTip": "MyStore.Application\\Services\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T11:53:37.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T11:53:37.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Application\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Services\\ProductService.cs",
@@ -443,12 +435,11 @@
               "RelativeToolTip": "MyStore.Application\\Services\\ProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:20:05.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:20:05.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Application\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\IUserService.cs",
@@ -456,12 +447,11 @@
               "RelativeToolTip": "MyStore.Application\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T11:51:51.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T11:51:51.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Application\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\IUnitOfWork.cs",
@@ -469,12 +459,11 @@
               "RelativeToolTip": "MyStore.Application\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:08:46.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:08:46.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Application\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\IProductService.cs",
@@ -482,12 +471,11 @@
               "RelativeToolTip": "MyStore.Application\\Interfaces\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:09:20.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:09:20.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Application\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\IProductRepository.cs",
@@ -495,12 +483,11 @@
               "RelativeToolTip": "MyStore.Application\\Interfaces\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:01:13.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:01:13.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Application\\Interfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\IOrderRepository.cs",
@@ -508,12 +495,11 @@
               "RelativeToolTip": "MyStore.Application\\Interfaces\\IOrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:04:49.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:04:49.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Application\\Interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\ICategoryRepository.cs",
@@ -521,12 +507,11 @@
               "RelativeToolTip": "MyStore.Application\\Interfaces\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:03:26.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:03:26.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Application\\Interfaces\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\IBaseRepository.cs",
@@ -534,12 +519,11 @@
               "RelativeToolTip": "MyStore.Application\\Interfaces\\IBaseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T11:56:29.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T11:56:29.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MyStore.Web\\Views\\Shared\\_Layout.cshtml",
@@ -547,12 +531,11 @@
               "RelativeToolTip": "MyStore.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAqwC4AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T13:54:34.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:54:34.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Store\\Create.cshtml",
               "RelativeDocumentMoniker": "MyStore.Web\\Views\\Store\\Create.cshtml",
@@ -560,12 +543,11 @@
               "RelativeToolTip": "MyStore.Web\\Views\\Store\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T13:59:11.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:59:11.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "MyStore.Web\\Views\\Account\\Register.cshtml",
@@ -573,12 +555,11 @@
               "RelativeToolTip": "MyStore.Web\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T12:21:29.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T12:21:29.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "MyStore.Web\\Views\\Account\\Login.cshtml",
@@ -586,12 +567,11 @@
               "RelativeToolTip": "MyStore.Web\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T12:08:48.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T12:08:48.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Store\\Index.cshtml",
               "RelativeDocumentMoniker": "MyStore.Web\\Views\\Store\\Index.cshtml",
@@ -599,25 +579,11 @@
               "RelativeToolTip": "MyStore.Web\\Views\\Store\\Index.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAIAwwCgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T13:50:34.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:50:34.417Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "MyStore.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\appsettings.json",
-              "RelativeToolTip": "MyStore.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-13T12:36:40.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
               "Title": "20251113124908_InitialSetup.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Infrastructure\\Migrations\\20251113124908_InitialSetup.cs",
               "RelativeDocumentMoniker": "MyStore.Infrastructure\\Migrations\\20251113124908_InitialSetup.cs",
@@ -625,8 +591,7 @@
               "RelativeToolTip": "MyStore.Infrastructure\\Migrations\\20251113124908_InitialSetup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:49:08.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:49:08.989Z"
             }
           ]
         }

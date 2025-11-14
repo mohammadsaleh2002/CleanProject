@@ -315,3 +315,13 @@ C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\obj\
 C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\obj\Debug\net8.0\MyStore.Web.genruntimeconfig.cache
 C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\obj\Debug\net8.0\ref\MyStore.Web.dll
 C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\bin\Debug\net8.0\libman.json
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\bin\Debug\net8.0\Serilog.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\bin\Debug\net8.0\Serilog.Sinks.File.dll
