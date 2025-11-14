@@ -20,6 +20,6 @@ namespace MyStore.Web.ViewModels
         public string ConfirmPassword { get; set; }
 
         [Display(Name = "آدرس")]
-        public string? Address { get; set; } // Nullable, as it's optional
+        public string? Address { get; set; }S
     }
 }
