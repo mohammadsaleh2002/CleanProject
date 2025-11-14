@@ -1,5 +1,4 @@
-﻿// File: MyStore.Web/Controllers/StoreController.cs
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using MyStore.Application.Interfaces;
 using MyStore.Domain.Entities;
 using System.Threading.Tasks;

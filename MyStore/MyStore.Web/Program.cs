@@ -59,7 +59,7 @@ app.UseAuthorization();
 // Map MVC routes (e.g., /Home/Index)
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Store}/{action=Index}/{id?}"); // <-- Changed default to Store/Index
+    pattern: "{controller=Home}/{action=Index}/{id?}"); // <-- Changed default to Store/Index
 
 // Map API routes (e.g., /api/Products)
 app.MapControllers();

@@ -1,5 +1,4 @@
-﻿// File: MyStore.Application/Interfaces/IOrderRepository.cs
-using MyStore.Domain.Entities;
+﻿using MyStore.Domain.Entities;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 

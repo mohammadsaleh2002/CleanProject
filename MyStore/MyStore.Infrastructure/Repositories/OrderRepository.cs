@@ -1,5 +1,4 @@
-﻿// File: MyStore.Infrastructure/Repositories/OrderRepository.cs
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using MyStore.Application.Interfaces;
 using MyStore.Domain.Entities;
 using MyStore.Infrastructure.Data;
