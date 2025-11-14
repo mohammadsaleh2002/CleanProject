@@ -20,6 +20,6 @@ namespace MyStore.Web.ViewModels
         public string ConfirmPassword { get; set; }
 
         [Display(Name = "آدرس")]
-        public string? Address { get; set; }S
+        public string? Address { get; set; }
     }
 }

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\views\\store\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\views\\store\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|solutionrelative:mystore.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5183F7A3-B0DF-4EC0-AB99-BF75DDBC2B8A}|MyStore.Web\\MyStore.Web.csproj|c:\\users\\mohammad-saleh\\desktop\\mobtani bar web project\\mystore\\mystore.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -154,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "MyStore.Web\\Views\\Account\\Register.cshtml",
@@ -175,20 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "MyStore.Web\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "MyStore.Web\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T12:08:48.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\AccountController.cs",
@@ -200,19 +187,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\ViewModels\\RegisterViewModel.cs",
               "ToolTip": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\ViewModels\\RegisterViewModel.cs",
               "RelativeToolTip": "MyStore.Web\\ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:03:02.125Z"
+              "WhenOpened": "2025-11-14T12:03:02.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\ViewModels\\LoginViewModel.cs",
@@ -224,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Services\\UserService.cs",
@@ -236,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Store\\Create.cshtml",
               "RelativeDocumentMoniker": "MyStore.Web\\Views\\Store\\Create.cshtml",
@@ -248,19 +236,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MyStore.Web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MyStore.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAIAwwBwAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC4AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T13:54:34.534Z"
+              "WhenOpened": "2025-11-13T13:54:34.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyStore.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MyStore.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T12:08:48.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Views\\Store\\Index.cshtml",
               "RelativeDocumentMoniker": "MyStore.Web\\Views\\Store\\Index.cshtml",
@@ -272,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "StoreController.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Controllers\\StoreController.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Controllers\\StoreController.cs",
@@ -308,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\Program.cs",
               "RelativeDocumentMoniker": "MyStore.Web\\Program.cs",
@@ -320,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Application\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "MyStore.Application\\Interfaces\\IUserService.cs",
