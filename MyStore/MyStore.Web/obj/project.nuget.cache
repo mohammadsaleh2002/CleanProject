@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FPDaIGz+GoA=",
+  "dgSpecHash": "K4TAUVj88dg=",
   "success": true,
-  "projectFilePath": "D:\\mobtani bar web project\\MyStore\\MyStore.Web\\MyStore.Web.csproj",
+  "projectFilePath": "C:\\Users\\Mohammad-Saleh\\Desktop\\Mobtani Bar Web Project\\MyStore\\MyStore.Web\\MyStore.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammad-Saleh\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Mohammad-Saleh\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

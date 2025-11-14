@@ -10,3 +10,15 @@ D:\mobtani bar web project\MyStore\MyStore.Domain\obj\Debug\net8.0\MyStore.Domai
 D:\mobtani bar web project\MyStore\MyStore.Domain\obj\Debug\net8.0\refint\MyStore.Domain.dll
 D:\mobtani bar web project\MyStore\MyStore.Domain\obj\Debug\net8.0\MyStore.Domain.pdb
 D:\mobtani bar web project\MyStore\MyStore.Domain\obj\Debug\net8.0\ref\MyStore.Domain.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Domain\bin\Debug\net8.0\MyStore.Domain.deps.json
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Domain\bin\Debug\net8.0\MyStore.Domain.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Domain\bin\Debug\net8.0\MyStore.Domain.pdb
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Domain\obj\Debug\net8.0\MyStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Domain\obj\Debug\net8.0\MyStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Domain\obj\Debug\net8.0\MyStore.Domain.AssemblyInfo.cs
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Domain\obj\Debug\net8.0\MyStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Domain\obj\Debug\net8.0\MyStore.Domain.sourcelink.json
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Domain\obj\Debug\net8.0\MyStore.Domain.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Domain\obj\Debug\net8.0\refint\MyStore.Domain.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Domain\obj\Debug\net8.0\MyStore.Domain.pdb
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Domain\obj\Debug\net8.0\ref\MyStore.Domain.dll
