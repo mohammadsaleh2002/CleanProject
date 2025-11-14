@@ -314,3 +314,4 @@ C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\obj\
 C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\obj\Debug\net8.0\MyStore.Web.pdb
 C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\obj\Debug\net8.0\MyStore.Web.genruntimeconfig.cache
 C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\obj\Debug\net8.0\ref\MyStore.Web.dll
+C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web\bin\Debug\net8.0\BCrypt.Net-Next.dll

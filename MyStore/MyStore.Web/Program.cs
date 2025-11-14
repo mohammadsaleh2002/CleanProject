@@ -1,62 +1,39 @@
-//var builder = WebApplication.CreateBuilder(args);
-
-//// Add services to the container.
-//builder.Services.AddControllersWithViews();
-
-//var app = builder.Build();
-
-//// Configure the HTTP request pipeline.
-//if (!app.Environment.IsDevelopment())
-//{
-//    app.UseExceptionHandler("/Home/Error");
-//    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-//    app.UseHsts();
-//}
-
-//app.UseHttpsRedirection();
-//app.UseStaticFiles();
-
-//app.UseRouting();
-
-//app.UseAuthorization();
-
-//app.MapControllerRoute(
-//    name: "default",
-//    pattern: "{controller=Home}/{action=Index}/{id?}");
-
-//app.Run();
-
-
-// File: MyStore.Web/Program.cs
 using Microsoft.EntityFrameworkCore;
 using MyStore.Application.Interfaces;
 using MyStore.Application.Services;
+using MyStore.Domain.Entities;
 using MyStore.Infrastructure.Data;
 using MyStore.Infrastructure.Repositories;
+using Microsoft.AspNetCore.Authentication.Cookies; // <-- NEW: For Cookie Authentication
 
 var builder = WebApplication.CreateBuilder(args);
 
 // --- 1. Add Services (Dependency Injection) ---
 
-// A. Add Infrastructure Layer
-// Register the DbContext
+// A. Add Authentication Services (Manual Cookie Setup)
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme) // <-- NEW
+    .AddCookie(options =>
+    {
+        options.LoginPath = "/Account/Login";
+        options.AccessDeniedPath = "/Account/AccessDenied";
+    });
+
+// B. Add Infrastructure Layer
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Register the Unit of Work. 
-// We use AddScoped, meaning one instance per HTTP request.
+// C. Register the Unit of Work
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
-// B. Add Application Layer
-// Register the services. Also AddScoped.
+// D. Add Application Layer Services
 builder.Services.AddScoped<IProductService, ProductService>();
-// (We can add ICategoryService, IOrderService here later)
+builder.Services.AddScoped<IUserService, UserService>(); // <-- NEW: Register our custom UserService
 
-// C. Add Presentation Layer (Web)
-builder.Services.AddControllersWithViews(); // For MVC Pages
-builder.Services.AddControllers();         // For API Controllers
+// E. Add Presentation Layer (Web)
+builder.Services.AddControllersWithViews();
+builder.Services.AddControllers();
 
-// D. Add Swagger (as requested for API)
+// F. Add Swagger (API)
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -66,26 +43,26 @@ var app = builder.Build();
 // --- 3. Configure the HTTP Request Pipeline ---
 if (app.Environment.IsDevelopment())
 {
-    // Use Swagger UI only in the development environment
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
 app.UseHttpsRedirection();
-app.UseStaticFiles(); // For serving CSS, JavaScript, and images
+app.UseStaticFiles();
 
 app.UseRouting();
 
+// Use Authentication MUST be before UseAuthorization
+app.UseAuthentication(); // <-- This Middleware is crucial for reading the cookie
 app.UseAuthorization();
 
 // Map MVC routes (e.g., /Home/Index)
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Store}/{action=Index}/{id?}"); // <-- Changed default to Store/Index
 
 // Map API routes (e.g., /api/Products)
 app.MapControllers();
 
 // --- 4. Run the Application ---
 app.Run();
-
