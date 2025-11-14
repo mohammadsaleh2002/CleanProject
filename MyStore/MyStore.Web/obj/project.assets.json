@@ -1597,6 +1597,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "BCrypt.Net-Next": "4.0.3",
+          "Microsoft.EntityFrameworkCore": "8.0.22",
           "MyStore.Domain": "1.0.0"
         },
         "compile": {
