@@ -1,0 +1,6 @@
+2025-11-15 07:01:57.203 +03:30 [INF] program is running
+2025-11-15 07:01:57.468 +03:30 [INF] Now listening on: https://localhost:7295
+2025-11-15 07:01:57.469 +03:30 [INF] Now listening on: http://localhost:5290
+2025-11-15 07:01:57.594 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-11-15 07:01:57.594 +03:30 [INF] Hosting environment: Development
+2025-11-15 07:01:57.594 +03:30 [INF] Content root path: C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web

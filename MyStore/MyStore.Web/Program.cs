@@ -6,7 +6,8 @@ using MyStore.Domain.Entities;
 using MyStore.Infrastructure.Data;
 using MyStore.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Authentication.Cookies;
-using Serilog; 
+using Serilog;
+using MyStore.Web.Middleware;
 
 
 Log.Logger = new LoggerConfiguration()
