@@ -1,0 +1,18 @@
+# Visual Studio Code / Visual Studio
+
+## Ignore Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Ignore build output directories
+[Bb]in/
+[Oo]bj/
+
+## Ignore other common files
+*.SCAYT-plugin-config
+*.ide-version
+*.swp
+*~

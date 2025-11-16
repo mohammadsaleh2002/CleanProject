@@ -4,3 +4,16 @@
 2025-11-15 07:01:57.594 +03:30 [INF] Application started. Press Ctrl+C to shut down.
 2025-11-15 07:01:57.594 +03:30 [INF] Hosting environment: Development
 2025-11-15 07:01:57.594 +03:30 [INF] Content root path: C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web
+2025-11-15 10:20:20.240 +03:30 [INF] program is running
+2025-11-15 10:20:20.518 +03:30 [INF] Now listening on: https://localhost:7295
+2025-11-15 10:20:20.519 +03:30 [INF] Now listening on: http://localhost:5290
+2025-11-15 10:20:20.637 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-11-15 10:20:20.638 +03:30 [INF] Hosting environment: Development
+2025-11-15 10:20:20.638 +03:30 [INF] Content root path: C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web
+2025-11-15 15:14:02.946 +03:30 [INF] program is running
+2025-11-15 15:14:03.164 +03:30 [INF] Now listening on: https://localhost:7295
+2025-11-15 15:14:03.165 +03:30 [INF] Now listening on: http://localhost:5290
+2025-11-15 15:14:03.198 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-11-15 15:14:03.198 +03:30 [INF] Hosting environment: Development
+2025-11-15 15:14:03.198 +03:30 [INF] Content root path: C:\Users\Mohammad-Saleh\Desktop\Mobtani Bar Web Project\MyStore\MyStore.Web
+2025-11-15 15:14:07.481 +03:30 [WRN] No store type was specified for the decimal property 'TotalAmount' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
